@@ -1,1 +1,0 @@
-# magazinchik.github.io
