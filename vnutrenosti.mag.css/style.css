@@ -1,0 +1,180 @@
+.m1{
+width:380px;
+height:150px;
+background-color: #a39193;
+position: absolute;
+top: 180px;
+left: 100px;
+border: 2px solid red;
+padding-top:50px;
+padding-left:170px;
+}
+.m-k1{
+color: #42ff07;
+width:200px;
+height:40px;
+background-color:#1114d6;
+position: absolute;
+top:400px;
+left:230px;
+padding-top:20px;
+padding-left:100px;
+text-decoration:none;
+}
+.m-k1:hover{
+color: white;
+border: 1px dashed white;
+}
+.m2{
+width:380px;
+height:150px;
+background-color: #dddf00;
+position: absolute;
+top: 180px;
+left: 720px;
+border: 2px solid red;
+padding-top:50px;
+padding-left:170px;
+}
+.m-k2{
+color: #42ff07;
+width:200px;
+height:40px;
+background-color:#1114d6;
+position: absolute;
+top:400px;
+left:850px;
+padding-top:20px;
+padding-left:100px;
+text-decoration:none;
+}
+.m-k2:hover{
+color: white;
+border: 1px dashed white;
+}
+.m3{
+width:380px;
+height:150px;
+background-color: #d67231;
+position: absolute;
+top: 180px;
+left: 1340px;
+border: 2px solid red;
+padding-top:50px;
+padding-left:170px;
+}
+.m-k3{
+color: #42ff07;
+width:200px;
+height:40px;
+background-color:#1114d6;
+position: absolute;
+top:400px;
+left:1470px;
+padding-top:20px;
+padding-left:100px;
+text-decoration:none;
+}
+.m-k3:hover{
+color: white;
+border: 1px dashed white;
+}
+.m4{
+width:380px;
+height:150px;
+background-color: #00dfff;
+position: absolute;
+top: 473px;
+left: 410px;
+border: 2px solid red;
+padding-top:50px;
+padding-left:170px;
+}
+.m-k4{
+color: #42ff07;
+width:200px;
+height:40px;
+background-color:#1114d6;
+position: absolute;
+top:688px;
+left:550px;
+padding-top:20px;
+padding-left:100px;
+text-decoration:none;
+}
+.m-k4:hover{
+color: white;
+border: 1px dashed white;
+}
+.m5{
+width:380px;
+height:150px;
+background-color: #9600ff;
+position: absolute;
+top: 473px;
+left: 1030px;
+border: 2px solid red;
+padding-top:50px;
+padding-left:170px;
+}
+.m-k5{
+color: #42ff07;
+width:200px;
+height:40px;
+background-color:#1114d6;
+position: absolute;
+top:688px;
+left:1150px;
+padding-top:20px;
+padding-left:100px;
+text-decoration:none;
+}
+.m-k5:hover{
+color: white;
+border: 1px dashed white;
+}
+.tabla_1{
+width: 1875px;
+height: 325px;
+position: absolute;
+top:750px;
+padding-left: 10px;
+border: 2px solid gold;
+color: white;
+}
+.tabla_2{
+background-color:#1b0031;
+color:white;
+width:50px;
+height:250px;
+position: absolute;
+top:425px;
+left:1855px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
